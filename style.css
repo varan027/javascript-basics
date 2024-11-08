@@ -1,0 +1,30 @@
+body{
+  background-color: yellow;
+}
+#red,
+#green{
+  font-size: 24px;
+  padding: 50px;
+  border-radius: 200px;
+  box-shadow: 4px 4px 6px;
+  background-color: red;
+}
+#green{
+  background-color: green;
+}
+
+@media (max-width:650px){
+
+  #red,
+  #green{
+    font-size: 16px;
+    padding: 28px;
+    border-radius: 200px;
+    box-shadow: 2px 2px 6px;
+    background-color: red;
+  }
+  #green{
+    background-color: green;
+  }
+
+}
