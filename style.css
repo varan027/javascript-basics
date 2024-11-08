@@ -12,19 +12,3 @@ body{
 #green{
   background-color: green;
 }
-
-@media (max-width:650px){
-
-  #red,
-  #green{
-    font-size: 16px;
-    padding: 28px;
-    border-radius: 200px;
-    box-shadow: 2px 2px 6px;
-    background-color: red;
-  }
-  #green{
-    background-color: green;
-  }
-
-}
