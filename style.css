@@ -3,6 +3,7 @@ body{
 }
 #red,
 #green{
+  color: yellow;
   font-size: 24px;
   padding: 50px;
   border-radius: 200px;
